@@ -30,7 +30,6 @@ st.markdown("""
         }
         .output-div {
             display : flex;
-            border : 2px solid red;
         }
         .output-title {
             color : black !important;
